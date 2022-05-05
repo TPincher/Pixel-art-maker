@@ -1,2 +1,2 @@
 # Pixel-art-maker
-For Udacity course
+This project is the JS assessment for the 'Introduction to Programming' Udacity course.
